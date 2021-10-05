@@ -14,3 +14,6 @@ See the repository for a code sample.
 
 ## [CodeCompanion.FluentSpreadsheet](https://github.com/kblyr/CodeCompanion.FluentSpreadsheet)
 This small library provides you a *Fluent API feel* in building spreadsheets in C#. It also abstracts the code from different providers like *EPPlus* and *GemBox.Spreadsheet* so you can change provider without changing all the code.
+
+## [CodeCompanion.EntityFrameworkCore](https://github.com/kblyr/CodeCompanion.EntityFrameworkCore)
+This simple library exposes commonly used patterns when using Entity Framework Core.
