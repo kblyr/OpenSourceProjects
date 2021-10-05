@@ -1,7 +1,7 @@
 # Open-Source Projects
 OSS is really fun, it gives you freedom, it allows you to learn new things or correct the ideas you thought are right by letting everyone see your works.
 
-Here I'm going to show what I've done and what I'm planning to do in this awesome world of Open-Source.
+Here I'm going to show you what I've done and what I'm planning to do in this awesome world of Open-Source.
 
 ## CodeCompanion.*
 Every repository that is prefixed with *CodeCompanion* is a simple and small library that commonly used in a project.
