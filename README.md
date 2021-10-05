@@ -3,6 +3,9 @@ OSS is really fun, it gives you freedom, it allows you to learn new things or co
 
 Here I'm going to show what I've done and what I'm planning to do in this awesome world of Open-Source.
 
+## CodeCompanion.*
+Every repository that is prefixed with *CodeCompanion* is a simple and small library that commonly used in a project.
+
 ## [CodeCompanion.Extensions.Dapper.Postgres](https://github.com/kblyr/CodeCompanion.Extensions.Dapper.Postgres)
 **SQL Server** has a feature that you can have multiple result set in one procedure call and **Dapper** supported it using **QueryMultiple(...)** method. But **PostgreSQL** doesn't provide this feature but you can create a function that returns **SETOF REFCURSOR**. 
 
