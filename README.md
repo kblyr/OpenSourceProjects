@@ -31,3 +31,8 @@ This simple library exposes commonly used patterns when using Entity Framework C
 [View Repository](https://github.com/kblyr/CodeCompanion.Exceptions)
 
 A small library that exposes general-purposes and supplementary exception classes
+
+## CodeCompanion.FluentEnumerable
+[View Repository](https://github.com/kblyr/CodeCompanion.FluentEnumerable)
+
+A small library that provides extension methods to use the Fluent API pattern.
