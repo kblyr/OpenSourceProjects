@@ -26,3 +26,8 @@ This small library provides you a *Fluent API feel* in building spreadsheets in 
 [View Repository](https://github.com/kblyr/CodeCompanion.EntityFrameworkCore)
 
 This simple library exposes commonly used patterns when using Entity Framework Core.
+
+## CodeCompanion.Exceptions
+[View Repository](https://github.com/kblyr/CodeCompanion.Exceptions)
+
+A small library that exposes general-purposes and supplementary exception classes
