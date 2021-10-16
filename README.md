@@ -71,7 +71,7 @@ This small library provides you a *Fluent API feel* in building spreadsheets in 
 
 
 ## CodeCompanion.Processes
-[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.FluentEnumerable?color=white&logo=github)](https://github.com/kblyr/CodeCompanion.FluentEnumerable)
-[![Nuget version (CodeCompanion.FluentEnumerable)](https://img.shields.io/nuget/v/CodeCompanion.FluentEnumerable?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.FluentEnumerable)
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.Processes?color=white&logo=github)](https://github.com/kblyr/CodeCompanion.Processes)
+[![Nuget version (CodeCompanion.Processes)](https://img.shields.io/nuget/v/CodeCompanion.Processes?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.Processes)
 
 This small library provides interfaces for executing processes
