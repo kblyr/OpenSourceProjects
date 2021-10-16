@@ -8,21 +8,30 @@ Every repository that is prefixed with *CodeCompanion* is a simple and small lib
 
 
 
-## CodeCompanion.EntityFrameworkCore ![Nuget](https://img.shields.io/nuget/v/CodeCompanion.EntityFrameworkCore?logo=nuget)
+## CodeCompanion.EntityFrameworkCore
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.EntityFrameworkCore?color=white&logo=github)
+![Nuget](https://img.shields.io/nuget/v/CodeCompanion.EntityFrameworkCore?logo=nuget)
+
 [View Repository](https://github.com/kblyr/CodeCompanion.EntityFrameworkCore)
 
 This simple library exposes commonly used patterns when using Entity Framework Core.
 
 
 
-## CodeCompanion.Exceptions ![Nuget](https://img.shields.io/nuget/v/CodeCompanion.Exceptions?logo=nuget)
+## CodeCompanion.Exceptions
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.Exceptions?color=white&logo=github)
+![Nuget](https://img.shields.io/nuget/v/CodeCompanion.Exceptions?logo=nuget)
+
 [View Repository](https://github.com/kblyr/CodeCompanion.Exceptions)
 
 A small library that exposes general-purposes and supplementary exception classes
 
 
 
-## CodeCompanion.Extensions.Dapper.Postgres ![Nuget](https://img.shields.io/nuget/v/CodeCompanion.Extensions.Dapper.Postgres?logo=nuget)
+## CodeCompanion.Extensions.Dapper.Postgres
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.Extensions.Dapper.Postgres?color=white&logo=github)
+![Nuget](https://img.shields.io/nuget/v/CodeCompanion.Extensions.Dapper.Postgres?logo=nuget)
+
 [View Repository](https://github.com/kblyr/CodeCompanion.Extensions.Dapper.Postgres)
 
 **SQL Server** has a feature that you can have multiple result set in one procedure call and **Dapper** supported it using **QueryMultiple(...)** method. But **PostgreSQL** doesn't provide this feature but you can create a function that returns **SETOF REFCURSOR**. 
@@ -35,14 +44,20 @@ See the repository for a code sample.
 
 
 
-## CodeCompanion.FluentEnumerable ![Nuget](https://img.shields.io/nuget/v/CodeCompanion.FluentEnumerable?logo=nuget)
+## CodeCompanion.FluentEnumerable
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.FluentEnumerable?color=white&logo=github)
+![Nuget](https://img.shields.io/nuget/v/CodeCompanion.FluentEnumerable?logo=nuget)
+
 [View Repository](https://github.com/kblyr/CodeCompanion.FluentEnumerable)
 
 A small library that provides extension methods to use the Fluent API pattern.
 
 
 
-## CodeCompanion.FluentSpreadsheet ![Nuget](https://img.shields.io/nuget/v/CodeCompanion.FluentSpreadsheet?logo=nuget)
+## CodeCompanion.FluentSpreadsheet
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.FluentSpreadsheet?color=white&logo=github)
+![Nuget](https://img.shields.io/nuget/v/CodeCompanion.FluentSpreadsheet?logo=nuget)
+
 [View Repository](https://github.com/kblyr/CodeCompanion.FluentSpreadsheet)
 
 This small library provides you a *Fluent API feel* in building spreadsheets in C#. It also abstracts the code from different providers like *EPPlus* and *GemBox.Spreadsheet* so you can change provider without changing all the code.
