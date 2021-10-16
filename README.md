@@ -3,36 +3,40 @@ OSS is really fun, it gives you freedom, it allows you to learn new things or co
 
 Here I'm going to show you what I've done and what I'm planning to do in this awesome world of Open-Source.
 
+
+
+
+
 ## CodeCompanion.*
 Every repository that is prefixed with *CodeCompanion* is a simple and small library that commonly used in a project.
 
 
 
-## CodeCompanion.EntityFrameworkCore
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.EntityFrameworkCore?color=white&logo=github)
-[![Nuget version (CodeCompanion.EntityFrameworkCore)](https://img.shields.io/nuget/v/CodeCompanion.EntityFrameworkCore?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.EntityFrameworkCore)
 
-[View Repository](https://github.com/kblyr/CodeCompanion.EntityFrameworkCore)
+
+## CodeCompanion.EntityFrameworkCore
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.EntityFrameworkCore?color=white&logo=github)](https://github.com/kblyr/CodeCompanion.EntityFrameworkCore)
+[![Nuget version (CodeCompanion.EntityFrameworkCore)](https://img.shields.io/nuget/v/CodeCompanion.EntityFrameworkCore?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.EntityFrameworkCore)
 
 This simple library exposes commonly used patterns when using Entity Framework Core.
 
 
 
-## CodeCompanion.Exceptions
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.Exceptions?color=white&logo=github)
-[![Nuget version (CodeCompanion.Exceptions)](https://img.shields.io/nuget/v/CodeCompanion.Exceptions?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.Exceptions)
 
-[View Repository](https://github.com/kblyr/CodeCompanion.Exceptions)
+
+## CodeCompanion.Exceptions
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.Exceptions?color=white&logo=github)](https://github.com/kblyr/CodeCompanion.Exceptions)
+[![Nuget version (CodeCompanion.Exceptions)](https://img.shields.io/nuget/v/CodeCompanion.Exceptions?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.Exceptions)
 
 A small library that exposes general-purposes and supplementary exception classes
 
 
 
-## CodeCompanion.Extensions.Dapper.Postgres
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.Extensions.Dapper.Postgres?color=white&logo=github)
-[![Nuget version (CodeCompanion.Extensions.Dapper.Postgres)](https://img.shields.io/nuget/v/CodeCompanion.Extensions.Dapper.Postgres?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.Extensions.Dapper.Postgres)
 
-[View Repository](https://github.com/kblyr/CodeCompanion.Extensions.Dapper.Postgres)
+
+## CodeCompanion.Extensions.Dapper.Postgres
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.Extensions.Dapper.Postgres?color=white&logo=github)](https://github.com/kblyr/CodeCompanion.Extensions.Dapper.Postgres)
+[![Nuget version (CodeCompanion.Extensions.Dapper.Postgres)](https://img.shields.io/nuget/v/CodeCompanion.Extensions.Dapper.Postgres?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.Extensions.Dapper.Postgres)
 
 **SQL Server** has a feature that you can have multiple result set in one procedure call and **Dapper** supported it using **QueryMultiple(...)** method. But **PostgreSQL** doesn't provide this feature but you can create a function that returns **SETOF REFCURSOR**. 
 
@@ -44,20 +48,20 @@ See the repository for a code sample.
 
 
 
-## CodeCompanion.FluentEnumerable
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.FluentEnumerable?color=white&logo=github)
-[![Nuget version (CodeCompanion.FluentEnumerable)](https://img.shields.io/nuget/v/CodeCompanion.FluentEnumerable?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.FluentEnumerable)
 
-[View Repository](https://github.com/kblyr/CodeCompanion.FluentEnumerable)
+
+## CodeCompanion.FluentEnumerable
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.FluentEnumerable?color=white&logo=github)](https://github.com/kblyr/CodeCompanion.FluentEnumerable)
+[![Nuget version (CodeCompanion.FluentEnumerable)](https://img.shields.io/nuget/v/CodeCompanion.FluentEnumerable?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.FluentEnumerable)
 
 A small library that provides extension methods to use the Fluent API pattern.
 
 
 
-## CodeCompanion.FluentSpreadsheet
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.FluentSpreadsheet?color=white&logo=github)
-[![Nuget version (CodeCompanion.FluentSpreadsheet)](https://img.shields.io/nuget/v/CodeCompanion.FluentSpreadsheet?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.FluentSpreadsheet)
 
-[View Repository](https://github.com/kblyr/CodeCompanion.FluentSpreadsheet)
+
+## CodeCompanion.FluentSpreadsheet
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.FluentSpreadsheet?color=white&logo=github)](https://github.com/kblyr/CodeCompanion.FluentSpreadsheet)
+[![Nuget version (CodeCompanion.FluentSpreadsheet)](https://img.shields.io/nuget/v/CodeCompanion.FluentSpreadsheet?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.FluentSpreadsheet)
 
 This small library provides you a *Fluent API feel* in building spreadsheets in C#. It also abstracts the code from different providers like *EPPlus* and *GemBox.Spreadsheet* so you can change provider without changing all the code.
