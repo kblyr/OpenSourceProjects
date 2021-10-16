@@ -65,3 +65,13 @@ A small library that provides extension methods to use the Fluent API pattern.
 [![Nuget version (CodeCompanion.FluentSpreadsheet)](https://img.shields.io/nuget/v/CodeCompanion.FluentSpreadsheet?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.FluentSpreadsheet)
 
 This small library provides you a *Fluent API feel* in building spreadsheets in C#. It also abstracts the code from different providers like *EPPlus* and *GemBox.Spreadsheet* so you can change provider without changing all the code.
+
+
+
+
+
+## CodeCompanion.Processes# CodeCompanion.FluentEnumerable
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.FluentEnumerable?color=white&logo=github)](https://github.com/kblyr/CodeCompanion.FluentEnumerable)
+[![Nuget version (CodeCompanion.FluentEnumerable)](https://img.shields.io/nuget/v/CodeCompanion.FluentEnumerable?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.FluentEnumerable)
+
+This small library provides interfaces for executing processes
