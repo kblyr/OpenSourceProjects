@@ -15,6 +15,7 @@ Every repository that is prefixed with *CodeCompanion* is a simple and small lib
 
 
 ## CodeCompanion.EntityFrameworkCore
+[![GitHub](https://img.shields.io/github/license/kblyr/CodeCompanion.EntityFrameworkCore)](https://raw.githubusercontent.com/kblyr/CodeCompanion.EntityFrameworkCore/main/LICENSE)
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.EntityFrameworkCore?color=white&logo=github)](https://github.com/kblyr/CodeCompanion.EntityFrameworkCore)
 [![Nuget version (CodeCompanion.EntityFrameworkCore)](https://img.shields.io/nuget/v/CodeCompanion.EntityFrameworkCore?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.EntityFrameworkCore)
 
@@ -25,6 +26,7 @@ This simple library exposes commonly used patterns when using Entity Framework C
 
 
 ## CodeCompanion.Exceptions
+[![GitHub](https://img.shields.io/github/license/kblyr/CodeCompanion.Exceptions)](https://raw.githubusercontent.com/kblyr/CodeCompanion.Exceptions/main/LICENSE)
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.Exceptions?color=white&logo=github)](https://github.com/kblyr/CodeCompanion.Exceptions)
 [![Nuget version (CodeCompanion.Exceptions)](https://img.shields.io/nuget/v/CodeCompanion.Exceptions?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.Exceptions)
 
@@ -35,6 +37,7 @@ A small library that exposes general-purposes and supplementary exception classe
 
 
 ## CodeCompanion.Extensions.Dapper.Postgres
+[![GitHub](https://img.shields.io/github/license/kblyr/CodeCompanion.Extensions.Dapper.Postgres)](https://raw.githubusercontent.com/kblyr/CodeCompanion.Extensions.Dapper.Postgres/main/LICENSE)
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.Extensions.Dapper.Postgres?color=white&logo=github)](https://github.com/kblyr/CodeCompanion.Extensions.Dapper.Postgres)
 [![Nuget version (CodeCompanion.Extensions.Dapper.Postgres)](https://img.shields.io/nuget/v/CodeCompanion.Extensions.Dapper.Postgres?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.Extensions.Dapper.Postgres)
 
@@ -51,6 +54,7 @@ See the repository for a code sample.
 
 
 ## CodeCompanion.FluentEnumerable
+[![GitHub](https://img.shields.io/github/license/kblyr/CodeCompanion.FluentEnumerable)](https://raw.githubusercontent.com/kblyr/CodeCompanion.FluentEnumerable/main/LICENSE)
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.FluentEnumerable?color=white&logo=github)](https://github.com/kblyr/CodeCompanion.FluentEnumerable)
 [![Nuget version (CodeCompanion.FluentEnumerable)](https://img.shields.io/nuget/v/CodeCompanion.FluentEnumerable?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.FluentEnumerable)
 
@@ -61,6 +65,7 @@ A small library that provides extension methods to use the Fluent API pattern.
 
 
 ## CodeCompanion.FluentSpreadsheet
+[![GitHub](https://img.shields.io/github/license/kblyr/CodeCompanion.FluentSpreadsheet)](https://raw.githubusercontent.com/kblyr/CodeCompanion.FluentSpreadsheet/main/LICENSE)
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.FluentSpreadsheet?color=white&logo=github)](https://github.com/kblyr/CodeCompanion.FluentSpreadsheet)
 [![Nuget version (CodeCompanion.FluentSpreadsheet)](https://img.shields.io/nuget/v/CodeCompanion.FluentSpreadsheet?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.FluentSpreadsheet)
 
@@ -71,6 +76,7 @@ This small library provides you a *Fluent API feel* in building spreadsheets in 
 
 
 ## CodeCompanion.Processes
+[![GitHub](https://img.shields.io/github/license/kblyr/CodeCompanion.Processes)](https://raw.githubusercontent.com/kblyr/CodeCompanion.Processes/main/LICENSE)
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.Processes?color=white&logo=github)](https://github.com/kblyr/CodeCompanion.Processes)
 [![Nuget version (CodeCompanion.Processes)](https://img.shields.io/nuget/v/CodeCompanion.Processes?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.Processes)
 
