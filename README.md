@@ -40,18 +40,12 @@ A small library that exposes general-purposes and supplementary exception classe
 
 
 
-### CodeCompanion.Extensions.Dapper.Postgres
-[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.Extensions.Dapper.Postgres?color=white&logo=github)](https://github.com/kblyr/CodeCompanion.Extensions.Dapper.Postgres)
-[![Nuget version (CodeCompanion.Extensions.Dapper.Postgres)](https://img.shields.io/nuget/v/CodeCompanion.Extensions.Dapper.Postgres?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.Extensions.Dapper.Postgres)
-[![GitHub](https://img.shields.io/github/license/kblyr/CodeCompanion.Extensions.Dapper.Postgres)](https://raw.githubusercontent.com/kblyr/CodeCompanion.Extensions.Dapper.Postgres/main/LICENSE)
+### CodeCompanion.Extensions
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.Extensions?color=white&logo=github)](https://github.com/kblyr/CodeCompanion.Extensions)
+[![Nuget version (CodeCompanion.Extensions)](https://img.shields.io/nuget/v/CodeCompanion.Extensions?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.Extensions)
+[![GitHub](https://img.shields.io/github/license/kblyr/CodeCompanion.Extensions)](https://raw.githubusercontent.com/kblyr/CodeCompanion.Extensions/main/LICENSE)
 
-**SQL Server** has a feature that you can have multiple result set in one procedure call and **Dapper** supported it using **QueryMultiple(...)** method. But **PostgreSQL** doesn't provide this feature but you can create a function that returns **SETOF REFCURSOR**. 
-
-This small and simple library provides a way to mimic the behavior of multiple result set using **REFCURSOR**.
-
-The library has an extension method for **IDbConnection**, the **QueryRefCursors(...)** that will return an instance of **Refcursors** that exposes methods like *Read(...)*, *ReadSingle(...)*, *ReadSingleOrDefault(...)*, *ReadFirst(...)* and *ReadFirstOrDefault(...)* just like what the **Dapper** provides.
-
-See the repository for a code sample.
+Different libraries containing extension methods to help developers
 <br><br><br>
 
 
