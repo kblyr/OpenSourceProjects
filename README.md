@@ -16,6 +16,18 @@ Every repository that is prefixed with *CodeCompanion* is a simple and small lib
 
 
 
+### CodeCompanion.Constraints
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.Constraints?color=white&logo=github)](https://github.com/kblyr/CodeCompanion.Constraints)
+[![Nuget version (CodeCompanion.Exceptions)](https://img.shields.io/nuget/v/CodeCompanion.Constraints?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.Constraints)
+[![GitHub](https://img.shields.io/github/license/kblyr/CodeCompanion.Constraints)](https://raw.githubusercontent.com/kblyr/CodeCompanion.Constraints/main/LICENSE)
+
+Provides generic value constraints
+<br><br><br>
+
+
+
+
+
 ### CodeCompanion.EntityFrameworkCore
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.EntityFrameworkCore?color=white&logo=github)](https://github.com/kblyr/CodeCompanion.EntityFrameworkCore)
 [![Nuget version (CodeCompanion.EntityFrameworkCore)](https://img.shields.io/nuget/v/CodeCompanion.EntityFrameworkCore?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.EntityFrameworkCore)
@@ -42,10 +54,20 @@ A small library that exposes general-purposes and supplementary exception classe
 
 ### CodeCompanion.Extensions
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.Extensions?color=white&logo=github)](https://github.com/kblyr/CodeCompanion.Extensions)
-[![Nuget version (CodeCompanion.Extensions)](https://img.shields.io/nuget/v/CodeCompanion.Extensions?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.Extensions)
 [![GitHub](https://img.shields.io/github/license/kblyr/CodeCompanion.Extensions)](https://raw.githubusercontent.com/kblyr/CodeCompanion.Extensions/main/LICENSE)
 
 Different libraries containing extension methods to help developers
+
+| Package Name | Version |
+|--------------|---------|
+| CodeCompanion.Extensions | [![Nuget version (CodeCompanion.Extensions)](https://img.shields.io/nuget/v/CodeCompanion.Extensions?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.Extensions) |
+| CodeCompanion.Extensions.AspNetCore | [![Nuget version (CodeCompanion.Extensions.AspNetCore)](https://img.shields.io/nuget/v/CodeCompanion.Extensions.AspNetCore?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.Extensions.AspNetCore) |
+| CodeCompanion.Extensions.Dapper.Postgres | [![Nuget version (CodeCompanion.Extensions.Dapper.Postgres)](https://img.shields.io/nuget/v/CodeCompanion.Extensions.Dapper.Postgres?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.Extensions.Dapper.Postgres) |
+| CodeCompanion.Extensions.FluentValidation | [![Nuget version (CodeCompanion.Extensions.FluentValidation)](https://img.shields.io/nuget/v/CodeCompanion.Extensions.FluentValidation?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.Extensions.FluentValidation) |
+| CodeCompanion.Extensions.FluentValidation.Constraints | [![Nuget version (CodeCompanion.Extensions.FluentValidation.Constraints)](https://img.shields.io/nuget/v/CodeCompanion.Extensions.FluentValidation.Constraints?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.Extensions.FluentValidation.Constraints) |
+
+
+
 <br><br><br>
 
 
