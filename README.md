@@ -16,9 +16,26 @@ Every repository that is prefixed with *CodeCompanion* is a simple and small lib
 
 
 
+### CodeCompanion.Auditing
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.Auditing?color=white&logo=github)](https://github.com/kblyr/CodeCompanion.Auditing)
+[![GitHub](https://img.shields.io/github/license/kblyr/CodeCompanion.Auditing)](https://raw.githubusercontent.com/kblyr/CodeCompanion.Auditing/main/LICENSE)
+
+Auditing info providers
+
+|Package Name|Version|
+|------------|-------|
+|CodeCompanion.Auditing|[![Nuget version (CodeCompanion.Auditing)](https://img.shields.io/nuget/v/CodeCompanion.Auditing?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.Auditing)|
+|CodeCompanion.Auditing.AspNetCore|[![Nuget version (CodeCompanion.Auditing.AspNetCore)](https://img.shields.io/nuget/v/CodeCompanion.Auditing.AspNetCore?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.Auditing.AspNetCore)|
+
+<br><br><br>
+
+
+
+
+
 ### CodeCompanion.Constraints
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kblyr/CodeCompanion.Constraints?color=white&logo=github)](https://github.com/kblyr/CodeCompanion.Constraints)
-[![Nuget version (CodeCompanion.Exceptions)](https://img.shields.io/nuget/v/CodeCompanion.Constraints?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.Constraints)
+[![Nuget version (CodeCompanion.Constraints)](https://img.shields.io/nuget/v/CodeCompanion.Constraints?logo=nuget)](https://www.nuget.org/packages/CodeCompanion.Constraints)
 [![GitHub](https://img.shields.io/github/license/kblyr/CodeCompanion.Constraints)](https://raw.githubusercontent.com/kblyr/CodeCompanion.Constraints/main/LICENSE)
 
 Provides generic value constraints
